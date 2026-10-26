@@ -1,4 +1,4 @@
-# Project A: Calculation of Material Properties Using Molecular Dynamics (MD)
+# Project A: Calculation of Material Properties Using Molecular Dynamics (MD) 
 
 A material is described by a collection of particles, either molecules or atoms. Assume that the interaction between the particles is the sum of the separate interactions of each particle with every other particle. In other words, the interactions are pairwise.
 
